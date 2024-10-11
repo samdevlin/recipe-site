@@ -8,6 +8,7 @@ export default defineUserConfig({
 
   title: 'VuePress',
   description: 'My first VuePress Site',
+  base: "/recipe-site/",
 
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
